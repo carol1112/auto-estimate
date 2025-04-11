@@ -164,6 +164,10 @@ header {
 
   .dropdown:hover .dropdown-menu {
     display: block;
+
+  }
+  .menu-toggle {
+    display: flex;
   }
 }
 
